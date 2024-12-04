@@ -141,7 +141,8 @@ function talk(){
     "Acm" : "Phone: +917017428546 , email: acmjuit@gmail.com",
     "updates" : "Search for: shorturl.at/dLMSW",
     "Updates" : "Search for: shorturl.at/dLMSW",
-    "UPDATES" : "Search for: shorturl.at/dLMSW"
+    "UPDATES" : "Search for: shorturl.at/dLMSW",
+    "Nitika" : "Assistant Professor (Contractual) 9816637122 Nitika@juitsolan.in"
 };
     var user = document.getElementById('userBox').value;
     document.getElementById('chatLog').innerHTML = user + "<br>";
