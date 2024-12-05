@@ -143,7 +143,9 @@ function talk(){
     "Updates" : "Search for: shorturl.at/dLMSW",
     "UPDATES" : "Search for: shorturl.at/dLMSW",
     "Nitika" : "Assistant Professor (Contractual) 9816637122 Nitika@juitsolan.in",
-    "nitika" : "Assistant Professor (Contractual) 9816637122 Nitika@juitsolan.in"
+    "nitika" : "Assistant Professor (Contractual) 9816637122 Nitika@juitsolan.in",
+    "Faisal Firdous" : "Assistant Professor (Contractual) +91 1792239302 faisal.firdous@juitsolan.in",
+    "faisal firdous" : "Assistant Professor (Contractual) +91 1792239302 faisal.firdous@juitsolan.in"
 };
     var user = document.getElementById('userBox').value;
     document.getElementById('chatLog').innerHTML = user + "<br>";
